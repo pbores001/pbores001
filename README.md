@@ -1,7 +1,8 @@
 
 <h1 align="center" tabindex="-1" class="heading-element" dir="auto">Hi there, I'm <span class="color:#7368FF">Paula Bores</span> 👋</h1>
 
-![myBanner2](https://github.com/user-attachments/assets/21a1ce3f-c97a-4692-b369-1b75721f0e81)
+<img width="1411" height="500" alt="myBanner (10)" src="https://github.com/user-attachments/assets/b5970a6f-22e7-4838-a5ba-69d8078c020b" />
+
 
 - 🔭 I’m currently working on Avanade as UX Desginer
 - 🌱 I’m currently learning Data Analytics
