@@ -1,6 +1,6 @@
 
 <h2 align="center" tabindex="-1" class="heading-element" dir="auto">Hi there, I'm <span class="color:#7368FF">Paula Bores</span> 👋</h2>
-<img width="1411" height="378" alt="myBanner (15)" src="https://github.com/user-attachments/assets/9bd2e66f-537a-4833-9698-f95ae7fbd17d" />
+<img width="1411" height="378" alt="myBanner (16)" src="https://github.com/user-attachments/assets/837d62cb-c3e4-4591-a406-75b5157f54d5" />
 <br><br><br>
 
 I'm an ocean-inspired diver, UX Designer, and Data Analyst from Bilbao.<br><br>
