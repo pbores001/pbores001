@@ -1,7 +1,8 @@
 
-<h2 align="center" tabindex="-1" class="heading-element" dir="auto">Hi there, I'm <span class="color:#7368FF">Paula Bores</span> 👋</h2>
-<img width="1411" height="378" alt="myBanner (16)" src="https://github.com/user-attachments/assets/837d62cb-c3e4-4591-a406-75b5157f54d5" />
+<h2 align="center" tabindex="-1" class="heading-element" dir="auto">Aloha, I'm <span class="color:#7368FF">Paula Bores</span> 👋</h2>
+![banner_light](https://github.com/user-attachments/assets/102dbece-ce9a-49bb-b443-38376cc95a46)
 <br><br><br>
+
 
 I'm an ocean-inspired diver, UX Designer, and Data Analyst from Bilbao.<br><br>
 
