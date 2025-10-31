@@ -1,6 +1,6 @@
 
 <h2 align="center" tabindex="-1" class="heading-element" dir="auto">Aloha, I'm <span class="color:#7368FF">Paula Bores</span> 👋</h2>
-![banner_light (1)](https://github.com/user-attachments/assets/e61b9af6-9686-4918-a3bc-a5a3d2739854)
+<img width="1411" height="378" alt="myBanner (16)" src="https://github.com/user-attachments/assets/837d62cb-c3e4-4591-a406-75b5157f54d5" />
 
 <br><br><br>
 
