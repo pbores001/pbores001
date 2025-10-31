@@ -1,8 +1,8 @@
 
 <h2 align="center" tabindex="-1" class="heading-element" dir="auto">Aloha, I'm <span class="color:#7368FF">Paula Bores</span> 👋</h2>
-<br><br><br>
+![banner_light (1)](https://github.com/user-attachments/assets/e61b9af6-9686-4918-a3bc-a5a3d2739854)
 
-![paula_linkd_github_profile](https://github.com/user-attachments/assets/05dac6c5-902e-4624-9799-b067d1a883ac)
+<br><br><br>
 
 I'm an ocean-inspired diver, UX Designer, and Data Analyst from Bilbao.<br><br>
 
